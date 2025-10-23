@@ -1,0 +1,12 @@
+# Compilés Java
+*.class
+
+# Dossiers de build
+/bin/
+/out/
+/target/
+
+# IDE/OS
+.vscode/
+*.log
+.DS_Store
